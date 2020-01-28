@@ -2,6 +2,10 @@ const express = require('express')
 
 const server = express()
 
+/**
+ * Middlewares as displayed in bootcamp
+ */
+
 server.use(express.json())
 
 server.use((req, res, next) => {
@@ -30,7 +34,7 @@ function checkUserInArray(req, res, next) {
 
 // CRUD - Create, Read, Update, Delete
 
-const users = ['Diego', 'Roberts']
+const users = ['Diego', 'Robert']
 
 server.get('/users/', (req, res) => {
   return res.json(users)
