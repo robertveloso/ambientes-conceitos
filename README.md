@@ -20,11 +20,11 @@ The first bootcamp module from GoStack 10.
 
 ### Backend
 
-- [NodeJS](https://github.com/Microsoft/TypeScript) 💚 - A JavaScript runtime built on Chrome's V8 Javascript engine.
-- [Express](https://github.com/Microsoft/TypeScript) 💹 - Designed for building web applications and APIs.
-- [Nodemon](https://github.com/Microsoft/TypeScript)
+- [NodeJS](https://nodejs.org) 💚 - A JavaScript runtime built on Chrome's V8 Javascript engine.
+- [Express](https://expressjs.com/) 💹 - Designed for building web applications and APIs.
+- [Nodemon](https://nodemon.io/)
   🧪 - A utility that will monitor for any changes in your source and automatically restart your server.
-- [Insomnia](https://github.com/Microsoft/TypeScript) 💜 - A cross-platform GraphQL and REST client tool.
+- [Insomnia](https://insomnia.rest/) 💜 - A cross-platform GraphQL and REST client tool.
 
 ## Getting started
 
